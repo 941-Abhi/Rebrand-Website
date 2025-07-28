@@ -32,7 +32,7 @@ This project is a complete rebranding of the official Royal Enfield website unde
 - **React (JSX/TSX)** – For building UI components
 - **JSON** – For configuration and dynamic data
 
---
+---
 
 ## 📌 Outcome
 
