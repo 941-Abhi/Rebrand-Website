@@ -34,24 +34,6 @@ This project is a complete rebranding of the official Royal Enfield website unde
 
 ---
 
-## 📁 Folder Structure (Sample)
-thronrider/
-
-
-│
-├── public/ # Static files (index.html, icons, etc.)
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main page components
-│ ├── assets/ # Images, icons, etc.
-│ ├── App.tsx # App entry point
-│ ├── index.tsx # React DOM rendering
-│ └── data/ # JSON config/data files
-├── tailwind.config.js # Tailwind configuration
-├── tsconfig.json # TypeScript configuration
-├── package.json # Project metadata & dependencies
-└── README.md # Project documentation
-
 
 ---
 
