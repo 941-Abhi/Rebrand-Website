@@ -36,6 +36,8 @@ This project is a complete rebranding of the official Royal Enfield website unde
 
 ## 📁 Folder Structure (Sample)
 thronrider/
+
+
 │
 ├── public/ # Static files (index.html, icons, etc.)
 ├── src/
